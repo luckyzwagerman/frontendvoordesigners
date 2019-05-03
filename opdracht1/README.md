@@ -9,11 +9,6 @@ Ik heb uiteindelijk een website gemaakt waarop verschillende films te vinden zij
 Omdat ik (heel onhandig) elke keer in hetzelfde bestand gewerkt heb en daar dingen aangepast heb, heb ik helaas geen verschillende versies van mijn opdracht. In het vervolg zal ik ervoor zorgen dat ik oude code en nieuwe code gescheiden hou zodat deze wel kan laten zien.
 
 
-Bijvoorbeel bij de demo van versie in kun je zo een link maken, zodat iedereen de demo zelf kan uitproberen:
+Link naar de bron code van de demo:
 
-[Demo 1 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v1/)
-
-
-Je kan ook een link plaatsen naar de bron code van de demo:
-
-[Code demo 1 voor opdracht 1](https://github.com/KoopReynders/frontendvoordesigners/blob/master/opdracht1/v1/)
+[Code voor opdracht 1](https://github.com/luckyzwagerman/frontendvoordesigners/tree/master/opdracht1/v1)
