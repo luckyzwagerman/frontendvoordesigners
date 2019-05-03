@@ -1,0 +1,87 @@
+body {
+    background: #171717;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.25em;
+    font-weight: bold;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+    padding-left: 1em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+}
+
+nav li {
+    display: inline;
+    padding: 6px;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
+
+nav a {
+    color: #ffffff;
+    display: inline-block;
+    margin-left: 1rem;
+    text-decoration: none;
+}
+
+.current {
+    color: #8b1ded;
+}
+
+a:hover {
+    color: rgb(173, 117, 222);
+}
+
+.doit {
+    transition: color 1s ease;
+    background-image: url(../images/notification.png);
+    background-size: 1em;
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 1.2em;
+}
+
+main div {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(21rem, 1fr));
+    grid-column-gap: 2em;
+}
+
+article {
+    margin: 2em auto 2em;
+    max-width: 100%;
+    transition: color 1s ease;
+}
+
+h2 {
+    color: #ffffff;
+    margin-bottom: 0;
+    margin-top: 0em;
+    text-decoration: none;
+}
+
+p {
+    display: inline-block;
+    margin-right: 0.2em;
+    font-size: 1.25em;
+}
+
+.opslaanknop {
+    width: 4em;
+    float: right;
+    background-color: Transparent;
+    border: none;
+}
+
+main button {
+    width: 4em;
+    float: right;
+    background-color: Transparent;
+    border: none;
+    margin-top: -4em;
+}
+
